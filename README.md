@@ -1,5 +1,5 @@
 # Homework list
- [print name](https://www.zybuluo.com/mdeditor#)<br>
+ [Print name](https://www.zybuluo.com/mdeditor#)<br>
  [Exercise_03:All levels]()<br>
  [Exercise_04:Charter 1 problem 1.5:The decay of two kind of particles]()<br>
  [Exercise_05:Charter 1 problem 1.6:Population growth]()<br>
