@@ -13,4 +13,3 @@
 - [ ] [Exercise_13:Charter 5 problem5.7:The Jacobi method v.s The SOR algorithm]()
 - [ ] [Exercise_14:Charter 6 problem6.15:The relist string problem]()
 - [ ] [Final Project:用轨道能量分析Kirkood Gap的缝宽]()
-- [x] completed
