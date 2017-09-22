@@ -24,7 +24,7 @@ while True:
            exit()
         if event.type == keydown:
            
-            if event.key == K_left:
+            if event.key == K_LEFT:
             
                 move_x = -1
             elif event.key == K_RIGHT:
