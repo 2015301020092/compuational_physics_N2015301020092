@@ -1,5 +1,5 @@
 
-import numpy as np   
+import numpy as np   #cooperate with Gao DuoQi
 import pylab as pl
 N=1500
 Time=0
