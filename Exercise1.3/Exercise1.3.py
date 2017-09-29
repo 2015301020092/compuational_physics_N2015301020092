@@ -3,14 +3,14 @@ import numpy as np   #cooperate with Gao DuoQi
 import pylab as pl
 N=1500
 Time=0
-detat=0.0001
+deltat=0.0001
 a=10
 b=0.02
 x=[0]
 y=[0]
 while Time<=0.9999:
-    Time=Time+detat
-    N=N+(a*N-b*N**2)*detat
+    Time=Time+deltat
+    N=N+(a*N-b*N**2)*deltat
     x.append(Time)
     y.append(N)
 else:
