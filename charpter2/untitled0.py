@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 20 19:50:37 2017
 
-@author: 高多奇
-"""
 
 import math
 import matplotlib.pyplot as plt
