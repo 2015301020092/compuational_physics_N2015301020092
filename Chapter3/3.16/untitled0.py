@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 27 16:41:07 2017
 
-@author: 高多奇
-"""
 
 import math
 import pylab as pl
