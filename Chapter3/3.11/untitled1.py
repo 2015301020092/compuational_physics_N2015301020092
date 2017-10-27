@@ -1,5 +1,4 @@
 
-
 import pylab as pl
 import math   
 g=9.8
