@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 27 21:41:22 2017
-
-@author: 高多奇
-"""
 import pylab as pl
 import math   
 pl.figure(figsize=(7,7)) 
