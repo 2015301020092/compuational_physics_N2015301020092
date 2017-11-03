@@ -8,7 +8,7 @@
 - [x] [Exercise_07:Charter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/2015301020092/note/922503)
 - [ ] [Exercise_08:Charter 3 problem 3.4:Non-linear oscillator]()
 - [x] [Exercise_09:Charter 3 problem3.11](https://www.zybuluo.com/xiaoyuerlhy/note/930882)
-- [ ] [Exercise_10:Charter 3 problem3.31:billiard ball on diverse table]()
+- [x] [Exercise_10:Charter 3 problem3.26:Lorenz model](https://www.zybuluo.com/2015301020092/note/938901)
 - [ ] [Exercise_11:Charter 4 problem4.11:The percession of Mercury]()
 - [ ] [Exercise_12:Charter 4 problem4.18:The Kirkood Gap]()
 - [ ] [Exercise_13:Charter 5 problem5.7:The Jacobi method v.s The SOR algorithm]()
