@@ -6,7 +6,7 @@
 - [x] [Exercise_05:Charter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/2015301020092/note/922503)
 - [x] [Exercise_6:Charter 3 problem3.11](https://www.zybuluo.com/xiaoyuerlhy/note/930882)
 - [x] [Exercise_7:Charter 3 problem3.26:Lorenz model](https://www.zybuluo.com/2015301020092/note/938901)
-- [ ] [Exercise_11:Charter 4 problem4.11:The percession of Mercury]()
+- [x] [Exercise_11:Charter 3 problem3.31](https://www.zybuluo.com/2015301020092/note/946753)
 - [ ] [Exercise_12:Charter 4 problem4.18:The Kirkood Gap]()
 - [ ] [Exercise_13:Charter 5 problem5.7:The Jacobi method v.s The SOR algorithm]()
 - [ ] [Exercise_14:Charter 6 problem6.15:The relist string problem]()
