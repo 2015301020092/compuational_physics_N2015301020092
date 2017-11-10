@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 10 18:43:19 2017
 
-@author: 高多奇
+@author: Administrator
 """
 
 import pylab as pl
