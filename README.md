@@ -8,6 +8,6 @@
 - [x] [Exercise_7:Charter 3 problem3.26:Lorenz model](https://www.zybuluo.com/2015301020092/note/938901)
 - [x] [Exercise_8:Charter 3 problem3.31](https://www.zybuluo.com/2015301020092/note/946753)
 - [x] [Exercise_9:Charter 4 problem4.16:The Solar system](https://www.zybuluo.com/2015301020092/note/971510)
-- [ ] [Exercise_13:Charter 5 problem5.7:The Jacobi method v.s The SOR algorithm]()
+- [x] [Exercise_13:Charter 5 problem5.6:The potential field near linghting rod](https://www.zybuluo.com/2015301020092/note/979725)
 - [ ] [Exercise_14:Charter 6 problem6.15:The relist string problem]()
 - [ ] [Final Project:用轨道能量分析Kirkood Gap的缝宽]()
