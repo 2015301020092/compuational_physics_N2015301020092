@@ -17,13 +17,11 @@ TS=250
 xl=1.0
 xy=70
 
-#定义作图数组：
 c=[] 
 for c1 in range(0,M+1):
              c.append(c1/100)
 else:
     c=c
-#定义系统参量
 h=TS+1   
     
 #定义t=O状态
@@ -38,7 +36,7 @@ for n in range(2,M):
     a[n-1][2-1]=a[n-1][1-1]
 else:
     a=a
-#定义t=3状态
+
 for i in range(1,M-1) :
     j=1 
     a[i][j+1]=2*(1-r**2)*a[i][j]-a[i][j-1]+(r**2)*(a[i+1][j]+a[i-1][j])#最上一行始终为0
