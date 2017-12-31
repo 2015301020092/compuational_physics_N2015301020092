@@ -10,5 +10,5 @@
 - [x] [Exercise_9:Charter 4 problem4.16:The Solar system](https://www.zybuluo.com/2015301020092/note/971510)
 - [x] [Exercise_10:Charter 5 problem5.6:The potential field near linghting rod](https://www.zybuluo.com/2015301020092/note/979725)
 - [x] [Exercise_14:Charter 6 problem6.4:The Wave](https://www.zybuluo.com/2015301020092/note/987818)
-- [x] [Pygam 贪吃蛇](https://www.zybuluo.com/2015301020092/note/987818)
+- [x] [Pygam 贪吃蛇](https://github.com/2015301020092/compuational_physics_N2015301020092/blob/master/pygame/pygame.md)
 - [x] [Final Project:随机行走]()
