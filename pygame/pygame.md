@@ -12,4 +12,4 @@
 
 运行效果图
 
-
+![源代码](https://raw.githubusercontent.com/2015301020092/compuational_physics_N2015301020092/master/pygame/%E8%B4%AA%E5%90%83%E8%9B%87.py)
