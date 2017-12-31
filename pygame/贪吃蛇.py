@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 30 13:19:20 2017
 
-@author: 高多奇
-"""
-
-# our game imports
 import pygame, sys, random, time
  
 # check for initializing errors
