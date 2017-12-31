@@ -4,6 +4,12 @@
 
 
 ![调整速度](https://raw.githubusercontent.com/2015301020092/compuational_physics_N2015301020092/master/pygame/%E8%B0%83%E6%95%B4%E9%80%9F%E5%BA%A6.png)
+
+
 在此处调整速度。
+
+![](https://raw.githubusercontent.com/2015301020092/compuational_physics_N2015301020092/master/pygame/%E8%B4%AA%E5%90%83%E8%9B%87.png)
+
+运行效果图
 
 
